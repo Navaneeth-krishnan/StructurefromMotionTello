@@ -7,7 +7,7 @@ This project involved generation of a sparse point-cloud  using the video acquir
 The Tello's camera should be calibrated using the cameraCalibratorApp and the parameters should be saved as 
 ```
 cameraParams
-``
+```
 ### Prerequisites
 
 The whole estimation and visualisation can be done with
